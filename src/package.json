@@ -1,0 +1,15 @@
+{
+  "name": "orchestra",
+  "version": "0.1.0",
+  "description": "Labo 6 API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LOGAN Victoria et JEANNERET Hugo",
+  "license": "ISC",
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "uuid": "^8.3.2"
+  }
+}
